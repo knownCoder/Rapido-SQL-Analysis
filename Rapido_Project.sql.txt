@@ -1,0 +1,9 @@
+CREATE DATABASE ola;
+USE ola;
+
+-- To Retrieve All the Successful Bookings --
+CREATE VIEW Successful_Bookings AS
+SELECT * FROM Bookings
+WHERE Booking_Status = 'Success';
+
+SELECT * FROM Successful_Bookings;
