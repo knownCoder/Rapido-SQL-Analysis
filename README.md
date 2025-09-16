@@ -1,6 +1,21 @@
 # Rapido-SQL-Analysis
 
-SQL Queries and analysis on Rapido ride booking dataset
+This project is part of my SQL learning journey, where I analyze a ride-booking dataset similar to Rapido/Ola.
+The goal is to practice SQL for Data Analysis by writing queries to explore customer behavior, driver performance, ride cancellations, payment methods, and overall business insights.
+
+Through this project, I cover:
+
+✅ Creating and managing databases & views
+
+✅ Writing queries for data retrieval & aggregation
+
+✅ Analyzing ride trends (successful, cancelled, incomplete rides)
+
+✅ Customer & driver performance analysis
+
+✅ Understanding booking values & payment patterns
+
+Each Day documents a set of queries along with visual outputs (screenshots) to track my progress step by step.
 
 ## Day - 1
 
@@ -41,12 +56,14 @@ group by Canceled_Rides_by_Customer;
 Select * from Canceled_Rides_by_Customer;
 ```
 
-<img alt="" style="width:48%" src="./assets//d-1/Post1_page-0001.jpg" />
-<img alt="" style="width:48%" src="./assets//d-1/Post1_page-0002.jpg" />
-<img alt="" style="width:48%" src="./assets//d-1/Post1_page-0003.jpg" />
-<img alt="" style="width:48%" src="./assets//d-1/Post1_page-0004.jpg" />
+<div style="display:flex; flex-wrap:wrap; gap:10px;"> 
+<img alt="Day 1 - 1" style="width:48%" src="./assets/d-1/Post1_page-0001.jpg" /> 
+<img alt="Day 1 - 2" style="width:48%" src="./assets/d-1/Post1_page-0002.jpg" />
+<img alt="Day 1 - 3" style="width:48%" src="./assets/d-1/Post1_page-0003.jpg" />
+<img alt="Day 1 - 4" style="width:48%" src="./assets/d-1/Post1_page-0004.jpg" /> 
+</div>
 
-----
+---
 
 ## Day - 2
 
@@ -124,11 +141,6 @@ from bookings
 where Incomplete_Rides = 'Yes';
 ```
 
-<img alt="" style="width:48%" src="./assets/d-2/1.jpg" />
-<img alt="" style="width:48%" src="./assets/d-2/2.jpg" />
-<img alt="" style="width:48%" src="./assets/d-2/3.jpg" />
-<img alt="" style="width:48%" src="./assets/d-2/4.jpg" />
-<img alt="" style="width:48%" src="./assets/d-2/5.jpg" />
-<img alt="" style="width:48%" src="./assets/d-2/6.jpg" />
-<img alt="" style="width:48%" src="./assets/d-2/7.jpg" />
-<img alt="" style="width:48%" src="./assets/d-2/8.jpg" />
+<div style="display:flex; flex-wrap:wrap; gap:10px;"> <img alt="Day 2 - 1" style="width:48%" src="./assets/d-2/1.jpg" /> <img alt="Day 2 - 2" style="width:48%" src="./assets/d-2/2.jpg" /> <img alt="Day 2 - 3" style="width:48%" src="./assets/d-2/3.jpg" /> <img alt="Day 2 - 4" style="width:48%" src="./assets/d-2/4.jpg" /> <img alt="Day 2 - 5" style="width:48%" src="./assets/d-2/5.jpg" /> <img alt="Day 2 - 6" style="width:48%" src="./assets/d-2/6.jpg" /> <img alt="Day 2 - 7" style="width:48%" src="./assets/d-2/7.jpg" /> <img alt="Day 2 - 8" style="width:48%" src="./assets/d-2/8.jpg" />
+
+ </div>
