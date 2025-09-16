@@ -41,10 +41,10 @@ group by Canceled_Rides_by_Customer;
 Select * from Canceled_Rides_by_Customer;
 ```
 
-<img alt="" width="49%" src="./assets//d-1/Post1_page-0001.jpg" />
-<img alt="" width="49%" src="./assets//d-1/Post1_page-0002.jpg" />
-<img alt="" width="49%" src="./assets//d-1/Post1_page-0003.jpg" />
-<img alt="" width="49%" src="./assets//d-1/Post1_page-0004.jpg" />
+<img alt="" width="48%" src="./assets//d-1/Post1_page-0001.jpg" />
+<img alt="" width="48%" src="./assets//d-1/Post1_page-0002.jpg" />
+<img alt="" width="48%" src="./assets//d-1/Post1_page-0003.jpg" />
+<img alt="" width="48%" src="./assets//d-1/Post1_page-0004.jpg" />
 
 ----
 
