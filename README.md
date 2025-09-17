@@ -144,3 +144,33 @@ where Incomplete_Rides = 'Yes';
 <div style="display:flex; flex-wrap:wrap; gap:10px;"> <img alt="Day 2 - 1" style="width:48%" src="./assets/d-2/1.jpg" /> <img alt="Day 2 - 2" style="width:48%" src="./assets/d-2/2.jpg" /> <img alt="Day 2 - 3" style="width:48%" src="./assets/d-2/3.jpg" /> <img alt="Day 2 - 4" style="width:48%" src="./assets/d-2/4.jpg" /> <img alt="Day 2 - 5" style="width:48%" src="./assets/d-2/5.jpg" /> <img alt="Day 2 - 6" style="width:48%" src="./assets/d-2/6.jpg" /> <img alt="Day 2 - 7" style="width:48%" src="./assets/d-2/7.jpg" /> <img alt="Day 2 - 8" style="width:48%" src="./assets/d-2/8.jpg" />
 
  </div>
+
+ ## Day - 3
+
+ 🚀 Day 3 – Power BI Dashboard Progress
+ ```
+🚀 Day 3 of my Rapido Ride Preparation & Insights Dashboard Project
+
+Today, I explored Power BI in more depth and started building out the dashboard visuals. I learned how to:
+
+📊 Add different types of graphs and charts
+
+📥 Load and manage data
+
+🔘 Create buttons for navigation
+
+📈 Build an overview page showing booking status breakdown, total bookings, and ride trends over time
+
+It’s exciting to see the project taking shape step by step. Still a lot to learn, but enjoying the process of turning raw data into clear insights.
+
+```
+
+<div style="display:flex; flex-wrap:wrap; gap:10px;"> 
+<img alt="Day 3 - 1" style="width:48%" src="./assets/d-3/1.jpg" /> 
+<img alt="Day 3 - 2" style="width:48%" src="./assets/d-3/2.jpg" />
+</div>
+
+
+
+
+
