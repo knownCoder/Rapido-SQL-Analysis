@@ -170,7 +170,29 @@ It’s exciting to see the project taking shape step by step. Still a lot to lea
 <img alt="Day 3 - 2" style="width:48%" src="./assets/d-3/2.png" />
 </div>
 
+## Day - 4
 
+🚀 Day 4 of my Rapido Ride Analysis Project
+```
+Today, I focused on building detailed dashboards in Power BI and writing DAX measures to track key ride insights:
 
+📊 Revenue Dashboard – Analyzed revenue by payment methods, top customers, and ride distance trends.
 
+❌ Cancellation Dashboard – Tracked total, succeeded & cancelled bookings, calculated cancellation rate, and identified cancellation reasons (drivers vs. customers).
 
+⭐ Ratings Dashboard – Compared driver vs. customer ratings across different vehicle types.
+
+⚡ DAX Measures – Created measures for Total Bookings, Cancelled Bookings, and Cancellation Percentage.
+
+```
+
+<div style="display:flex; flex-wrap:wrap; gap:10px;"> 
+<img alt="Day 4 - 1" style="width:48%" src="./assets/d-4/1.png" /> 
+<img alt="Day 4 - 2" style="width:48%" src="./assets/d-4/2.png" /> 
+<img alt="Day 4 - 3" style="width:48%" src="./assets/d-4/3.png" /> 
+<img alt="Day 4 - 4" style="width:48%" src="./assets/d-4/4.png" /> 
+<img alt="Day 4 - 5" style="width:48%" src="./assets/d-4/5.png" />
+<img alt="Day 4 - 6" style="width:48%" src="./assets/d-4/6.png" /> 
+<img alt="Day 4 - 7" style="width:48%" src="./assets/d-4/7.png" />  
+<img alt="Day 4 - 8" style="width:48%" src="./assets/d-4/8.png" /> 
+</div>
