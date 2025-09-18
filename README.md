@@ -167,7 +167,7 @@ It’s exciting to see the project taking shape step by step. Still a lot to lea
 
 <div style="display:flex; flex-wrap:wrap; gap:10px;"> 
 <img alt="Day 3 - 1" style="width:48%" src="./assets/d-3/1.jpg" /> 
-<img alt="Day 3 - 2" style="width:48%" src="./assets/d-3/2.jpg" />
+<img alt="Day 3 - 2" style="width:48%" src="./assets/d-3/2.png" />
 </div>
 
 
